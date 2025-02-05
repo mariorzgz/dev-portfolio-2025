@@ -44,7 +44,7 @@ class Viewer extends React.Component {
 
             <div className="d-flex align-items-center padding-x project-container">
               <div className="width-33 project-info">
-                <h2 id="title" className="padding-y margin-0">{project.title}</h2>
+                <h2 id="title" className="margin-0">{project.title}</h2>
                 <p id="description" className="margin-0">{project.description}</p>
               </div>
 

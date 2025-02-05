@@ -82,25 +82,25 @@
 }
 
 /* Scrollbar */
+
+/*
 ::-webkit-scrollbar {
 	width: 10px;
 }
 
-/* Track */
 ::-webkit-scrollbar-track {
 	background: var(--color-dark);
 }
 
-/* Handle */
 ::-webkit-scrollbar-thumb {
 	background: var(--color-teal);
 	border-radius: 5px;
 }
 
-/* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
 	background: var(--color-teal);
 }
+*/
 
 @keyframes load8 {
 	0% {
