@@ -148,18 +148,18 @@ export const webprojects = [
     description:
       "My first webapp in React. It hasn't changed a lot. It has two galleries of projects, scroll effects with GSAP Scroll Trigger and lots of microinteractions.",
     video: "./web projects/dev portfolio.mp4",
-    link: ".",
+    link: "",
     year: "2022"
   },
   {
     id: 1,
-    title: "Refresh",
-    skills: ["Ruby on Rails", "Bootstrap", "SQL"],
+    title: "El Cielo",
+    skills: ["Next.js", "Sanity CMS"],
     description:
-      "Final project for Le Wagon Ruby on Rails bootcamp. It's an app for trading, sharing and showing your personal style. People can upload photos, tag items and then trade those items. We did it in two weeks and I was the dev and team leader.",
-    video: "./web projects/refresh.mp4",
-    link: "https://www.refresh-your-style.com/",
-    year: "2022"
+      "Website for a director's duo. The concept was about displaying the visual movement of the frames with the user interaction through hovering. Collaboration with Susana Marlo from La Perra Gorda.",
+    video: "./web projects/elcielo.mp4",
+    link: "https://elcielo.ooo/",
+    year: "2024"
   },
   {
     id: 2,
