@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.2621c4a8.css",
-    "main.js": "/static/js/main.b5422808.js",
+    "main.css": "/static/css/main.aae5481d.css",
+    "main.js": "/static/js/main.e6d97964.js",
     "static/js/787.eef0f175.chunk.js": "/static/js/787.eef0f175.chunk.js",
     "static/media/noto-emoji-v53-emoji-regular.woff2": "/static/media/noto-emoji-v53-emoji-regular.7e37c5b3fa6bc582fc89.woff2",
+    "static/media/noto-emoji-v53-emoji-700.woff2": "/static/media/noto-emoji-v53-emoji-700.41ff932c58517e85f825.woff2",
     "static/media/InriaSerif-Regular.woff2": "/static/media/InriaSerif-Regular.8379e5fd9591817f0bf3.woff2",
     "static/media/InriaSerif-Light.woff2": "/static/media/InriaSerif-Light.ba96cfc5009c7c92fb52.woff2",
     "static/media/MartianMono-StdxBd.woff2": "/static/media/MartianMono-StdxBd.99449b7bff016ae84b9f.woff2",
     "static/media/MartianMono-StdBd.woff2": "/static/media/MartianMono-StdBd.088f4659805b68a06753.woff2",
     "index.html": "/index.html",
-    "main.2621c4a8.css.map": "/static/css/main.2621c4a8.css.map",
-    "main.b5422808.js.map": "/static/js/main.b5422808.js.map",
+    "main.aae5481d.css.map": "/static/css/main.aae5481d.css.map",
+    "main.e6d97964.js.map": "/static/js/main.e6d97964.js.map",
     "787.eef0f175.chunk.js.map": "/static/js/787.eef0f175.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2621c4a8.css",
-    "static/js/main.b5422808.js"
+    "static/css/main.aae5481d.css",
+    "static/js/main.e6d97964.js"
   ]
 }
