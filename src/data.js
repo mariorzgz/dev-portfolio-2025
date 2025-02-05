@@ -143,10 +143,10 @@ export const designprojects = [
 export const webprojects = [
   {
     id: 0,
-    title: "My Portfolio",
+    title: "2022 Portfolio",
     skills: ["React", "GSAP"],
     description:
-      "My first webapp in React. It has two galleries of projects, scroll effects with GSAP Scroll Trigger and lots of microinteractions.",
+      "My first webapp in React. It hasn't changed a lot. It has two galleries of projects, scroll effects with GSAP Scroll Trigger and lots of microinteractions.",
     video: "./web projects/dev portfolio.mp4",
     link: ".",
     year: "2022"
