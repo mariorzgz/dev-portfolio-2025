@@ -143,16 +143,6 @@ export const designprojects = [
 export const webprojects = [
   {
     id: 0,
-    title: "2022 Portfolio",
-    skills: ["React", "GSAP"],
-    description:
-      "My first webapp in React. It hasn't changed a lot. It has two galleries of projects, scroll effects with GSAP Scroll Trigger and lots of microinteractions.",
-    video: "./web projects/dev portfolio.mp4",
-    link: "",
-    year: "2022"
-  },
-  {
-    id: 1,
     title: "El Cielo",
     skills: ["Next.js", "Sanity CMS"],
     description:
@@ -162,17 +152,17 @@ export const webprojects = [
     year: "2024"
   },
   {
-    id: 2,
-    title: "Cuchillo Amigo",
+    id: 1,
+    title: "NOW Energy",
     skills: ["Wordpress"],
     description:
-      "Final project for my two years Interactive Media Degree in Spain. It's a vegan recipes blog with entries, categories and photos. It's the first website I've built.",
-    video: "./web projects/cuchillo amigo.mp4",
-    link: "https://cuchilloamigo.com/",
-    year: "2020"
+      "Website for a Solar Power company that I made while working at ONMI Design. It has multiple pages with lots of information and different target audiences: homes, small companies and industries.",
+    video: "./web projects/now energy.mp4",
+    link: "",
+    year: "2021"
   },
   {
-    id: 3,
+    id: 2,
     title: "Tribu",
     skills: ["Wordpress"],
     description:
@@ -182,7 +172,7 @@ export const webprojects = [
     year: "2021"
   },
   {
-    id: 4,
+    id: 3,
     title: "KOMA",
     skills: ["Wordpress"],
     description:
@@ -192,13 +182,23 @@ export const webprojects = [
     year: "2021"
   },
   {
-    id: 5,
-    title: "NOW Energy",
+    id: 4,
+    title: "Cuchillo Amigo",
     skills: ["Wordpress"],
     description:
-      "Website for a Solar Power company that I made while working at ONMI Design. It has multiple pages with lots of information and different target audiences: homes, small companies and industries.",
-    video: "./web projects/now energy.mp4",
-    link: "",
-    year: "2021"
-  }
+      "Final project for my two years Interactive Media Degree in Spain. It's a vegan recipes blog with entries, categories and photos. It's the first website I've built.",
+    video: "./web projects/cuchillo amigo.mp4",
+    link: "https://cuchilloamigo.com/",
+    year: "2020"
+  },
+  {
+    id: 5,
+    title: "2022 Portfolio",
+    skills: ["React", "GSAP"],
+    description:
+      "My first webapp in React. It hasn't changed a lot. It has two galleries of projects, scroll effects with GSAP Scroll Trigger and lots of microinteractions.",
+    video: "./web projects/dev portfolio.mp4",
+    link: "https://2022.mariorzgz.me/",
+    year: "2022"
+  },
 ];
