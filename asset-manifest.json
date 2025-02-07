@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.014cba42.css",
-    "main.js": "/static/js/main.00f9dd03.js",
+    "main.js": "/static/js/main.12f40c6e.js",
     "static/js/787.eef0f175.chunk.js": "/static/js/787.eef0f175.chunk.js",
     "static/media/noto-emoji-v53-emoji-regular.woff2": "/static/media/noto-emoji-v53-emoji-regular.7e37c5b3fa6bc582fc89.woff2",
     "static/media/noto-emoji-v53-emoji-700.woff2": "/static/media/noto-emoji-v53-emoji-700.41ff932c58517e85f825.woff2",
@@ -11,11 +11,11 @@
     "static/media/MartianMono-StdBd.woff2": "/static/media/MartianMono-StdBd.088f4659805b68a06753.woff2",
     "index.html": "/index.html",
     "main.014cba42.css.map": "/static/css/main.014cba42.css.map",
-    "main.00f9dd03.js.map": "/static/js/main.00f9dd03.js.map",
+    "main.12f40c6e.js.map": "/static/js/main.12f40c6e.js.map",
     "787.eef0f175.chunk.js.map": "/static/js/787.eef0f175.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.014cba42.css",
-    "static/js/main.00f9dd03.js"
+    "static/js/main.12f40c6e.js"
   ]
 }
